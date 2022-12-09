@@ -1,0 +1,108 @@
+body{
+
+	
+	padding: 50px;
+	margin: 50px;
+	height: 900px;
+	width: 78%;
+	margin-left:10%;
+	box-shadow: 0.5px 2px 6px gray;
+
+}
+
+h2{
+	padding-top:0px;
+	margin-left: 20px;
+	position: absolute;
+	top: 10%;
+}
+
+.space{
+	margin-left: 1%;
+	
+}
+.black{
+	font-size: 31px;
+}
+.blue{
+
+	padding-top:0px;
+	margin-left: 150px;
+	position: absolute;
+	top: 15%;
+	font-size: 48px;
+	text-decoration: bold;
+	color: skyblue;
+}
+h3{
+
+	margin-left: 78%;
+	position: relative;
+	top: 24px;
+	font-size: 20px;
+}
+.container{
+
+	        width: 90%;
+			height: auto;
+			display: flex;
+			flex-wrap: wrap;
+			margin-left:1%;
+
+}
+
+
+	
+
+	 
+.box{
+
+	        height: 280px;
+			width: 300px;
+			margin-left: 10%;
+			font-size: 20px;
+			margin: 10px;
+			position: relative;
+			top: 130px;
+			border-radius: 4px;
+			box-shadow: 0.5px 2px 6px gray;
+			padding: 10px;
+			
+
+
+}
+
+.box:hover{
+	box-shadow: 0 5px 15px gray;
+}
+.color{
+	color:lightblue;
+}
+.line{
+	text-decoration: line-through;
+	padding-top: 2px;
+	margin-left: 4px;
+	color: gray;
+	}
+
+a{
+	text-decoration: none;
+	color:skyblue;
+	font-size: 20px;
+	text-align: center;
+}
+.padding{
+	margin-left: 7px;
+}
+.plus{
+
+	background: skyblue;
+	border-radius: 30px;
+	width: 38px;
+	height: 38px;
+	margin-left: 74%;
+	position: relative;
+	top:80px;
+}
+
+
